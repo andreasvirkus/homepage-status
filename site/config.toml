@@ -8,6 +8,7 @@ title = "StatusKit"
 [params]
   defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
   faviconsPath = "/images/favicon/"
+  siteLink = "https://andreasvirkus.me"
 
 # List of systems monitored in this status page.
 # You'll be able to change their status every time
