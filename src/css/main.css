@@ -97,7 +97,7 @@ a:active {
   color: #fff;
 }
 
-.contact-link {
+.right-links a + a {
   margin-left: 16px;
 }
 
